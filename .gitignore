@@ -1,0 +1,43 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+code/eqain-admin/D:/log/eqain-admin-eureka.log
+code/eqain-admin/D:/log/eqain/eqain-admin-open-api-order.log
+code/eqain-admin/D:/log/eqain/eqain-admin-open-api-user.log
+code/eqain-admin/D:/log/eqian/eqain-admin-eureka.log
+code/eqain-admin/D:/log/eqian/eqain-admin-open-api-order.log
+code/eqain-admin/D:/log/eqian/eqain-admin-open-api-user.log
+D:/log/eqain/eqain-admin-open-api-order.log
+D:/log/eqian/eqain-admin-eureka.log
+eqain-admin-eureka/D:/log/eqian/eqain-admin-eureka.log
+eqain-admin-gateway/D:/log/eqian/eqain-admin-gateway.log
+eqain-admin-open-api-order/src/main/java/com/firstbrave/eqain/.DS_Store
+eqain-admin-open-api-order/src/main/java/com/firstbrave/eqain/order/pojo/.DS_Store
