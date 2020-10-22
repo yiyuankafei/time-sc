@@ -16,7 +16,7 @@ public class TestController {
     public String t1(String name) {
         System.out.println("11111111111111111");
         System.out.println("223333222222222222222");
-
+        System.out.println("666");
         return "hi:" + name;
     }
 }
